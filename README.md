@@ -1,6 +1,8 @@
 # PROJECT PART 1
 By: Pratik Kadam & Samarth Kedilaya
 
+## Instructions:
+The main files are in the directory "src/com/dbimpl/dbwiscops". The "main.java" file consists of the main code for data generation. While the "DbAdapter.java" file in the dao folder consists of the Database connection configurations.
 
 ## Brief Description:
 The main objective of this part 1 of the project was to generate data based on the Wisconsin Benchmark specification. The data is generated using a script developed in Java Programming language. Once the data is generated, we loaded that into our PostgreSQL database.
